@@ -1,6 +1,6 @@
 ## Mockups Lab
 
-For tonight's lab, we'd like you to code up the mockups using Twitter Bootstrap.
+For tonight's lab, we'd like you to codethe first two mockups using Twitter Bootstrap.
 
 ## Getting Started
 
